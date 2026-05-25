@@ -5,4 +5,4 @@ info:
   app:
     name: "Food-service"
     description: "This is Food service. We are developing right now.Git version configuration ."
-    version: "{cipher}7de5bb07aea6912d30159e3b0347f6a2627148e1ab2ebeed3440936aada2f618693f40e9f8db846ae433dde838a896dd"
+    version: "{cipher}c03a13cd7f6774f0b0fa74b10b3b67e929d65c09c567c841fe2b90374112b2657c6418aafbd20138be812b2dd94cb4c6db08b61b121a3f208e3c36a5f8058686"
