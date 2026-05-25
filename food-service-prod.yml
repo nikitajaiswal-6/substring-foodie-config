@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/micros_db
     username: N_Spark
-    password: Spark
+    password: "{cipher}bbfb93284de74a917587f8de4ccc1b1fa5daf006b6700126702a430f808bef89"
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
