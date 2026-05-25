@@ -1,0 +1,8 @@
+server:
+  port: 9096
+
+info:
+  app:
+    name: "Food-service"
+    description: "This is Food service. We are developing right now.This configuration is located in config server."
+    version: "1.0V Under Development"
